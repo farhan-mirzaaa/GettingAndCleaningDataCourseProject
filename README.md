@@ -1,6 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 Author: **Muhammad Farhan Mirza**
+
 Date:   15 October, 2017.
 
 ## Introduction
