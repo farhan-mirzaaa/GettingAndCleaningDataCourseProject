@@ -94,5 +94,5 @@ library(dplyr)                  #loading dplyr package for summarise_all functio
 meansDataSet <- summarize_all( group_by( humanActivityDataSet, activity, subject ), mean )
 
 #write the tidy_data.txt file
-write.table(meansDataSet, tidyDataFilePath)
+write.table(meansDataSet, tidyDataFilePath, row.names = FALSE)
 
