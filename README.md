@@ -1,7 +1,8 @@
 # Getting and Cleaning Data Course Project
+---
 Author: **Muhammad Farhan Mirza**
 Date:   15 October, 2017.
-
+---
 ## Introduction
 
 This repo is for my Coursera "Getting and Cleaning Data Course" project. In this project, raw data downloaded from [Human Activity Recognition Using Smartphones Data Set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) to create a tidy data set.
