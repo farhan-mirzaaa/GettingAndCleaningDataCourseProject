@@ -25,5 +25,9 @@ Goal of this project is to convert a raw data set into tidy data set, for that m
 4.  Appropriately labels the data set with descriptive variable names. 
 5.  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each     subject.
 
+## Run the script
 
+In order to run the script, download the **run_analysis.R** and put it in your working directory.
+In the first line of the script file change **dataDir** and assign your data directory to this variable.
+Run this script and **tidy_data.txt** will be generated in the unzipped **UCI HAR Dataset** folder.
 
