@@ -1,6 +1,6 @@
 # Codebook for Getting and cleaning data course project
 
-This codebook is to describe the [run_analysis.R](https://github.com/farhan-mirzaaa/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R) script and the tidy dataset.
+This codebook is to describe the [run_analysis.R](https://github.com/farhan-mirzaaa/GettingAndCleaningDataCourseProject/blob/master/run_analysis.R) script and the [tidy dataset](https://github.com/farhan-mirzaaa/GettingAndCleaningDataCourseProject/blob/master/tidy_data.txt).
 
 ## Data
 
