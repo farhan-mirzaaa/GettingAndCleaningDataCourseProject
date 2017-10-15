@@ -9,13 +9,13 @@ This repo is for my Coursera "Getting and Cleaning Data Course" project. In this
 This repo contains the four files:
 
 1.  **README.md** contains the repo information
-2.  **tidy_data.txt**_ contains the final output after analysis
-3.  **run_analysis.R**_ is the script file which converts the input data into tidy dataset
-4.  **codebook.md** contains the code book for **run_analysis.R**_ to understand it
+2.  **tidy_data.txt** contains the final output after analysis
+3.  **run_analysis.R** is the script file which converts the input data into tidy dataset
+4.  **codebook.md** contains the code book for **run_analysis.R** to understand it
 
 ## Goal
 
-Goal of this project is to convert a raw data set into tidy data set, for that matter following operations are completed in **run_analysis.R**_ script.
+Goal of this project is to convert a raw data set into tidy data set, for that matter following operations are completed in **run_analysis.R** script.
 
 1.  Merges the training and the test sets to create one data set.
 2.  Extracts only the measurements on the mean and standard deviation for each measurement. 
