@@ -43,7 +43,7 @@ The variables in the **tidy dataset** are measured as floating point values, nor
 
 **TimeDomainBodyGyroscopeMeanX**, **TimeDomainBodyGyroscopeMeanY**, **TimeDomainBodyGyroscopeMeanZ** average time-domain body angular velocity in the X, Y and Z directions.
 
-**TimeDomainBodyGyroscopeStandardDeviationX**, **TimeDomainBodyGyroscopeStandardDeviationY**, **TimeDomainBodyGyroscopeStandardDeviationZ** standard deviation of the time-domain body angular velocity in the X, Y and Z directions.
+ **TimeDomainBodyGyroscopeStandardDeviationX**, **TimeDomainBodyGyroscopeStandardDeviationY**, **TimeDomainBodyGyroscopeStandardDeviationZ** standard deviation of the time-domain body angular velocity in the X, Y and Z directions.
 
 **TimeDomainBodyGyroscopeJerkMeanX**, **TimeDomainBodyGyroscopeJerkMeanY**, **TimeDomainBodyGyroscopeJerkMeanZ** average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions.
 
@@ -88,7 +88,7 @@ Standard deviation of the frequency-domain body acceleration in the X, Y and Z d
 **FrequencyDomainBodyGyroscopeJerkMagnitudeMean**, **FrequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation**, **FrequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency** average, standard deviation, and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time).
 
 
-## Steps to create tidy dataset
+## Steps to create tidy dataset in **run_analysis.R** script
 
 1.  Download the dataset in the form of .zip file from [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 2.  Unzip the .zip file 
